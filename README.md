@@ -1,5 +1,5 @@
 активировать венв:
-.\.venv\Scripts\Activate.ps1
+.venv\Scripts\Activate.ps1
 
 pandas: 
 python -m pip install --only-binary ":all:" pandas
