@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\projects\\help\\ui\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{071B9530-D324-49C2-B2AA-71593167AD70}|ui.csproj|c:\\projects\\help\\ui\\addeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071B9530-D324-49C2-B2AA-71593167AD70}|ui.csproj|solutionrelative:addeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071B9530-D324-49C2-B2AA-71593167AD70}|ui.csproj|c:\\projects\\help\\ui\\addeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{071B9530-D324-49C2-B2AA-71593167AD70}|ui.csproj|solutionrelative:addeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071B9530-D324-49C2-B2AA-71593167AD70}|ui.csproj|c:\\projects\\help\\ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071B9530-D324-49C2-B2AA-71593167AD70}|ui.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071B9530-D324-49C2-B2AA-71593167AD70}|ui.csproj|c:\\projects\\help\\ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{071B9530-D324-49C2-B2AA-71593167AD70}|ui.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\projects\\help\\ui\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\projects\\help\\ui\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T23:38:21.043Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\projects\\help\\ui\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\projects\\help\\ui\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T23:38:22.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddEditForm.cs",
+              "DocumentMoniker": "C:\\projects\\help\\ui\\AddEditForm.cs",
+              "RelativeDocumentMoniker": "AddEditForm.cs",
+              "ToolTip": "C:\\projects\\help\\ui\\AddEditForm.cs*",
+              "RelativeToolTip": "AddEditForm.cs*",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAawHcAAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T23:25:52.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddEditForm.cs [Design]",
+              "DocumentMoniker": "C:\\projects\\help\\ui\\AddEditForm.cs",
+              "RelativeDocumentMoniker": "AddEditForm.cs",
+              "ToolTip": "C:\\projects\\help\\ui\\AddEditForm.cs [Design]*",
+              "RelativeToolTip": "AddEditForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T23:23:01.808Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
